@@ -7,6 +7,8 @@ Teme koje su obrađene u vježbama:
   + neizrazito upravljanje
   + genetski algoritam
   + ANN i Backpropagation algoritam
+  + ANFIS mreža (TSK zaključivanje)
+  + Neuro-evolucijski model
   
 Laboratory exercises from the course Fuzzy, Evolutionary and Neuro-Computing (UniZG-FER 2020/2021)
 --
@@ -17,3 +19,5 @@ Topics covered in the exercises:
     + Fuzzy control system
   + Genetic Algorithm
   + ANN and Backpropagation
+  + ANFIS model (TSK)
+  + Neuro-evolutionary model
