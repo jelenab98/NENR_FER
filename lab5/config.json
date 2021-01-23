@@ -1,0 +1,1 @@
+{"open_generator_gui": "y", "use_generated_data": "n", "representative_points": 30, "input_dataset_file": "full_data.txt", "output_dataset_file": "new_d.txt", "layers": [60, 12, 6, 5], "load_weights_file": null, "save_weights_file": null, "algorithm": "mini-batch", "lr": 0.5, "stop_error": 0.001, "epochs": 100000, "open_classifier_gui": "y"}
